@@ -75,4 +75,4 @@ namespace DigiTrafficTester
         }
     }
 }
-
+// JKun ihminen nukkuu, sille ei tapahdu mitään. Mutta kun se ei nuku, se voi saada vaikka kalan. 
