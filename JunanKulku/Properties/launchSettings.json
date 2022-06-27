@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JunanKulku": {
+      "commandName": "Project",
+      "commandLineArgs": "-a Tampere"
+    }
+  }
+}
