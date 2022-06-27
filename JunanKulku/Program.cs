@@ -71,6 +71,7 @@ namespace DigiTrafficTester
             Console.WriteLine("tai");
             Console.WriteLine("DigiTrafficTester -j[unat] alkuasemaLyhenne loppuasemaLyhenne");
             Console.WriteLine();
+            Console.WriteLine("*****-----******");
         }
     }
 }
